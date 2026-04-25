@@ -1,0 +1,1 @@
+# Folder-Based-File-Rename---macOS-Finder.app
